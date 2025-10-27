@@ -2,7 +2,13 @@
 _A passionate Software Developer from India_
 
 ---
+## 🌟 About Me
+- 🔭 I’m currently working on **sharpening my DSA skills and exploring AI/ML integrations into small projects**
+- 🌱 I’m currently learning: n8n, DSA algorithms
+- 💬 Ask me about: C++, Python, AI/ML, backend development
+- 📫 How to reach me: moulikgupta8@gmail.com
 
+---
 ## 🏅 LeetCode Stats
 
 [![LeetCode Stats Card](https://leetcard.jacoblin.cool/moulikgupta?theme=dark&animation=true)](https://leetcode.com/moulikgupta)
@@ -21,13 +27,7 @@ _A passionate Software Developer from India_
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **sharpening my DSA skills and exploring AI/ML integrations into small projects**
-- 🌱 I’m currently learning: n8n, DSA algorithms
-- 💬 Ask me about: C++, Python, AI/ML, backend development
-- 📫 How to reach me: moulikgupta8@gmail.com
 
----
 
 ## 🚀 Tech Stack
 
