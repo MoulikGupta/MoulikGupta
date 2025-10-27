@@ -3,27 +3,29 @@ _A passionate Software Developer from India_
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **sharpening my DSA skills and exploring AI/ML integrations into small projects**
-- 🌱 I’m currently learning: n8n, DSA algorithms
-- 💬 Ask me about: C++, Python, AI/ML, backend development
-- 📫 How to reach me: moulikgupta8@gmail.com
+## 🏅 LeetCode Stats
+
+[![LeetCode Stats Card](https://leetcard.jacoblin.cool/moulikgupta?theme=dark&animation=true)](https://leetcode.com/moulikgupta)
+  
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-moulikgupta-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/moulikgupta)
 
 ---
 
 ## 🏆 GitHub Stats
 
 ![](https://github-profile-trophy.vercel.app/?username=moulikgupta&theme=flat&column=6&margin-w=15)
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=moulikgupta&show_icons=true&hide_border=false&locale=en)
-  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moulikgupta&theme=default)
 
 ---
 
-## 🏅 LeetCode Stats
-
-[![Moulik's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=moulikgupta)](https://leetcode.com/moulikgupta)
+## 🌟 About Me
+- 🔭 I’m currently working on **sharpening my DSA skills and exploring AI/ML integrations into small projects**
+- 🌱 I’m currently learning: n8n, DSA algorithms
+- 💬 Ask me about: C++, Python, AI/ML, backend development
+- 📫 How to reach me: moulikgupta8@gmail.com
 
 ---
 
@@ -43,12 +45,12 @@ _A passionate Software Developer from India_
 
 ---
 
-## 🧑‍💻 Coding Profiles
+## 🌐 Other Profiles
 
-- [GitHub](https://github.com/moulikgupta)
-- [LeetCode](https://leetcode.com/moulikgupta)
-- [HackerRank](https://www.hackerrank.com/moulikgupta8)
-- [LinkedIn](https://linkedin.com/in/moulikgupta18)
+[![GitHub](https://readme-workflows.github.io/Readme-Icons/icons/social/github.svg?animation=pulse)](https://github.com/moulikgupta)
+[![LeetCode](https://readme-workflows.github.io/Readme-Icons/icons/social/leetcode.svg?animation=glow)](https://leetcode.com/moulikgupta)
+[![HackerRank](https://readme-workflows.github.io/Readme-Icons/icons/social/hackerrank.svg?animation=heartbeat)](https://www.hackerrank.com/moulikgupta8)
+[![LinkedIn](https://readme-workflows.github.io/Readme-Icons/icons/social/linkedin.svg?animation=bounce)](https://linkedin.com/in/moulikgupta18)
 
 ---
 
@@ -58,4 +60,3 @@ I love merging algorithms with creative side projects!
 ---
 
 ![](https://komarev.com/ghpvc/?username=moulikgupta&style=flat&color=0e75b6&label=Profile+views)
-
