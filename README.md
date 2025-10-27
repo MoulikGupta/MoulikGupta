@@ -47,7 +47,7 @@ _A passionate Software Developer from India_
 
 ## 🌐 Other Profiles
 
-[![GitHub](https://readme-workflows.github.io/Readme-Icons/icons/social/github.svg?animation=pulse)](https://github.com/moulikgupta)
+
 [![LeetCode](https://readme-workflows.github.io/Readme-Icons/icons/social/leetcode.svg?animation=glow)](https://leetcode.com/moulikgupta)
 [![HackerRank](https://readme-workflows.github.io/Readme-Icons/icons/social/hackerrank.svg?animation=heartbeat)](https://www.hackerrank.com/moulikgupta8)
 [![LinkedIn](https://readme-workflows.github.io/Readme-Icons/icons/social/linkedin.svg?animation=bounce)](https://linkedin.com/in/moulikgupta18)
